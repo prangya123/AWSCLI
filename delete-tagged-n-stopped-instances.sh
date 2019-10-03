@@ -1,6 +1,6 @@
 #!/bin/bash
  
-# $Id: //depot/releng/build/ec2/
+# $Id: //depot/
 # $DateTime: 
 # $Author: Prangya P Kar
 # $Change: 
